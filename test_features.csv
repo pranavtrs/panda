@@ -1,0 +1,2 @@
+safebrowsing,token_count,avg_path_token,largest_path,largest_token,URL,sec_sen_word_cnt,IPaddress_presence,largest_domain,No_of_dots,host,Length_of_url,ASNno,rank_country,rank_host,path_token_count,domain_token_count,path,avg_token_length,avg_domain_token_length,Length_of_host
+0,24,6.0,6,20,https://www.google.co.in/search?q=naa+peru+surya&rlz=1C1CHBD_enIN820IN820&oq=naa&aqs=chrome.2.69i57j0l5.6055j0j7&sourceid=chrome&ie=UTF-8,0,0,6,6,www.google.co.in,137,15169,3,23,1,4,/search,4.666666666666667,3.25,16
